@@ -1,0 +1,8 @@
+com\company\app\test\ExerciseServiceTest.class
+com\company\app\repository\ExerciseRepository.class
+com\company\app\service\ExerciseService.class
+com\company\app\model\CheckExercise.class
+com\company\app\controller\ExerciseController.class
+com\company\app\Application.class
+com\frugalis\Spring\Boot\Resources\ResourceConfigs.class
+com\company\app\model\Exercise.class
